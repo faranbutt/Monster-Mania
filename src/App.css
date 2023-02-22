@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "papa";
+     src: local("papa"),
+      url("./assets/fonts/papa.otf") format("truetype");
+    font-weight: bold;
+} 
+
